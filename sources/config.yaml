@@ -1,0 +1,22 @@
+---
+sources:
+  - EPLDarwin.glyphs
+buildOTF: true
+familyName: "EPL Darwin"
+stat: # STAT config at the top level
+  - name: Weight
+    tag: wght
+    values:
+      - name: Regular
+        value: 400
+        # Add other weight values if applicable (e.g., Bold: 700)
+        # linkedStyle: Bold # Example if you have a Bold instance
+  - name: Italic
+    tag: ital
+    values:
+      - name: Roman # Assuming this is the non-italic style
+        value: 0
+      # Add Italic value if applicable (e.g., Italic: 1)
+      # - name: Italic
+      #   value: 1
+      #   flags: 2 # Elidable value flag for Italic often uses 2
