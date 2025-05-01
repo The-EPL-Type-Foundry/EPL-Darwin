@@ -1,0 +1,45 @@
+2025-05-01 17:07:16 Progress: Running:  /usr/local/bin/psfnormalize /Users/emily_tmf/EPL-Darwin/sources/EPLDarwin.ufo
+2025-05-01 17:07:16 Progress: Reading UFO: /Users/emily_tmf/EPL-Darwin/sources/EPLDarwin.ufo
+2025-05-01 17:07:16 Progress: Checking fontinfo.plist metadata
+2025-05-01 17:07:16 Warning:  Required fields missing from fontinfo.plist: ['copyright', 'openTypeNameManufacturer']
+2025-05-01 17:07:16 Warning:  Checking will continue with values of 'Dummy' or 999 for missing fields
+2025-05-01 17:07:16 Warning:  copyright is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeNameDescription is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeNameDesigner is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeNameDesignerURL is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeNameLicense is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeNameLicenseURL is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeNameManufacturerURL is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeOS2CodePageRanges is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeOS2UnicodeRanges is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeOS2VendorID is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeOS2WinAscent is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeOS2WinDescent is missing from fontinfo.plist
+2025-05-01 17:07:16 Warning:  openTypeHheaLineGap would be added  New value: 0
+2025-05-01 17:07:16 Warning:  openTypeOS2TypoLineGap would be added  New value: 0
+2025-05-01 17:07:16 Warning:  openTypeOS2Selection would be added  New value: [7]
+2025-05-01 17:07:16 Warning:  openTypeOS2Type would be added  New value: []
+2025-05-01 17:07:16 Warning:  openTypeNameUniqueID would be added  New value: Dummy: EPL Darwin Re...
+2025-05-01 17:07:16 Warning:  openTypeNameVersion would be added  New value: Version 0.1
+2025-05-01 17:07:16 Warning:  openTypeHheaAscender would be added  New value: 800
+2025-05-01 17:07:16 Warning:  openTypeHheaDescender would be added  New value: -200
+2025-05-01 17:07:16 Warning:  openTypeNamePreferredFamilyName would be added  New value: EPL Darwin
+2025-05-01 17:07:16 Warning:  openTypeOS2TypoAscender would be added  New value: 800
+2025-05-01 17:07:16 Warning:  openTypeOS2TypoDescender would be added  New value: -200
+2025-05-01 17:07:16 Warning:  italicAngle would be removed since it is 0  Old value: 0
+2025-05-01 17:07:16 Warning:  versionMajor is 0
+2025-05-01 17:07:16 Progress: Checking lib.plist metadata
+2025-05-01 17:07:16 Warning:  com.schriftgestaltung.customParameter.GSFont.disablesAutomaticAlignment would be added  New value: True
+2025-05-01 17:07:16 Warning:  com.schriftgestaltung.customParameter.GSFont.disablesLastChange would be added  New value: True
+2025-05-01 17:07:16 Warning:  com.schriftgestaltung.customParameter.GSFont.useNiceNames should normally be False; currently missing
+2025-05-01 17:07:16 Warning:  com.schriftgestaltung.disablesAutomaticAlignment would be deleted - obsolete key Old value: False
+2025-05-01 17:07:16 Warning:  com.schriftgestaltung.DisplayStrings would be deleted - obsolete key Old value: ['gjpqyThe']
+2025-05-01 17:07:16 Warning:  com.schriftgestaltung.useNiceNames would be deleted - obsolete key Old value: True
+2025-05-01 17:07:16 Progress: Check & fix results:- Errors: 0, Changes to make: 17, Other warnings: 16
+2025-05-01 17:07:16 Progress: See log file for details
+2025-05-01 17:07:16 Progress: **** Since some required fields were missing, checkfix=fix would fail
+2025-05-01 17:07:16 Progress: Backing up input font to /Users/emily_tmf/EPL-Darwin/sources/backups/EPLDarwin.ufo.1~
+2025-05-01 17:07:16 Progress: Processing font for output
+2025-05-01 17:07:16 Progress: Writing font to /Users/emily_tmf/EPL-Darwin/sources/EPLDarwin.ufo
+2025-05-01 17:07:16 Progress: Command completed with 0 errors and 33 warnings
+2025-05-01 17:07:16 Progress: See log file for warning messages or rerun with '-p scrlevel=w'
