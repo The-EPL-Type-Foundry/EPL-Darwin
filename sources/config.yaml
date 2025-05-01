@@ -1,6 +1,6 @@
 ---
 sources:
-  - EPLDarwin.glyphs
+  - EPLDarwin.ufo
 buildOTF: true
 familyName: "EPL Darwin"
 stat: # STAT config at the top level
