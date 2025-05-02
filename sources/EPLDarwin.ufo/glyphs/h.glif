@@ -40,19 +40,19 @@ h
       <point x="183" y="356" type="curve"/>
       <point x="183" y="378" type="line" smooth="yes"/>
       <point x="183" y="486"/>
-      <point x="179" y="608"/>
-      <point x="196" y="715" type="curve"/>
-      <point x="159" y="715"/>
-      <point x="56" y="689"/>
-      <point x="24" y="673" type="curve"/>
-      <point x="19" y="646" type="line"/>
-      <point x="25" y="647"/>
-      <point x="30" y="647"/>
-      <point x="35" y="647" type="curve" smooth="yes"/>
-      <point x="80" y="647"/>
-      <point x="97" y="633"/>
-      <point x="101" y="582" type="curve" smooth="yes"/>
-      <point x="103" y="551"/>
+      <point x="179" y="618"/>
+      <point x="196" y="725" type="curve"/>
+      <point x="159" y="725"/>
+      <point x="56" y="699"/>
+      <point x="24" y="683" type="curve"/>
+      <point x="19" y="656" type="line"/>
+      <point x="25" y="657"/>
+      <point x="30" y="657"/>
+      <point x="35" y="657" type="curve" smooth="yes"/>
+      <point x="80" y="657"/>
+      <point x="97" y="643"/>
+      <point x="101" y="592" type="curve" smooth="yes"/>
+      <point x="103" y="561"/>
       <point x="104" y="461"/>
       <point x="104" y="397" type="curve" smooth="yes"/>
       <point x="104" y="135" type="line" smooth="yes"/>
@@ -68,4 +68,10 @@ h
       <point x="237" y="-3" type="curve"/>
     </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2025-05-01 20:54:50 +0000</string>
+    </dict>
+  </lib>
 </glyph>
