@@ -1,4 +1,5 @@
 sources/backups
+myenv
 *~
 venv
 venv-test
