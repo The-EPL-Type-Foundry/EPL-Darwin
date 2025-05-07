@@ -13,8 +13,7 @@
 
 Lazy Darwin is a free and open-source ty­pe­fa­ce intended for book and article writing, with a particular focus on aca­de­mic and scientific usage. The typeface aims to cover a very wide range of languages, as well as provide support for specialist usage in subjects like medievalist studies and linguistics. Lazy Darwin will also come in several different optical sizes, as well as have an accompanying math font.
 
-![Sample Image](documentation/image1.png)
-![Sample Image](documentation/image2.png)
+![Sample Image](documentation/logo.png)
 
 ## About
 
