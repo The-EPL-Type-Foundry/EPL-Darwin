@@ -1,8 +1,8 @@
 ---
 sources:
-  - EPLDarwin.ufo
+  - LazyDarwin.ufo
 buildOTF: true
-familyName: "EPL Darwin"
+familyName: "Lazy Darwin"
 stat: # STAT config at the top level
   - name: Weight
     tag: wght
