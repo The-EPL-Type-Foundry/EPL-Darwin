@@ -132,3 +132,9 @@ wsproto==1.2.0
 youseedee==0.5.3
 zipp==3.21.0
 zopfli==0.2.3.post1
+fontmake>=3.9.0
+gftools[qa]>=0.9.54
+drawbot-skia>=0.5.0
+sh>=2.0.6
+bumpfontversion>=0.4.1
+diffenator2>=0.3.8
