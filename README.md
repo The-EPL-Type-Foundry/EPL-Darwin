@@ -15,10 +15,6 @@ Lazy Darwin is a free and open-source ty­pe­fa­ce intended for book and artic
 
 ![Sample Image](documentation/logo.png)
 
-## About
-
-Description of you and/or organisation goes here.
-
 ## Building
 
 Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
@@ -29,17 +25,13 @@ If you want to build fonts manually on your own computer:
 * `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
 * `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at https://The-EPL-Type-Foundry.github.io/EPL-Darwin.git.
+The proof files and QA tests are also available automatically via GitHub Actions — look at https://The-EPL-Type-Foundry.github.io/EPL-Darwin.git.
 
-## Changelog
+## About the Author
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
-
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+Emily de Oliveira Santos (she/her) is a mathematician and type designer based on Brazil.
+- [Webpage](https://topological-modular-forms.github.io/)
+- [Email](mailto:emily.de.oliveira.santos.tmf@gmail.com)
 
 ## License
 
